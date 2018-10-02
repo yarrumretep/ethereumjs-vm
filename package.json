@@ -39,7 +39,7 @@
     "ethereumjs-account": "^2.0.3",
     "ethereumjs-block": "~2.0.1",
     "ethereumjs-common": "~0.4.0",
-    "ethereumjs-util": "git+https://github.com/ethereumjs/ethereumjs-util#create2",
+    "ethereumjs-util": "git+https://github.com/ethereumjs/ethereumjs-util.git#create2",
     "fake-merkle-patricia-tree": "^1.0.1",
     "functional-red-black-tree": "^1.0.1",
     "merkle-patricia-tree": "^2.1.2",
